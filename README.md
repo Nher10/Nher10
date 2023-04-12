@@ -7,16 +7,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nher10&label=Profile%20views&color=0e75b6&style=flat" alt="nher10" /> </p>
 
-- 🔭 I’m currently working on **Cine Spot**
+- 🔭 I’m currently working on **Projects**
 
-- 🌱 I’m currently learning **React-redux, Mui-material**
+- 🌱 I’m currently learning **Mui-material, Sanity**
 
 - 💬 Ask me about **mern**
 
 - 📫 How to reach me **nherwinostia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">nherwinostia2@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
